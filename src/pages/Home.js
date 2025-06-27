@@ -44,7 +44,7 @@ const Home = () => {
 
   const stats = [
     { number: '10x', label: 'Faster Response' },
-    { number: '99.9%', label: 'Uptime' },
+    { number: 'SOS', label: 'Emergency' },
     { number: '24/7', label: 'Support' },
     { number: '5★', label: 'Rating' },
   ];
